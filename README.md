@@ -1,7 +1,7 @@
 # Hey there! I'm Arckie 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arckie-jadulco)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arckie.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arckiejadulco.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arckie.jadulco@gmail.com)
 
 ---
@@ -82,24 +82,12 @@ E-commerce platform built with React and Firebase. Features product catalog, car
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zethcode&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1f&title_color=c9a87c&icon_color=c9a87c&text_color=e8e6e3" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zethcode&theme=dark&hide_border=true&background=1a1a1f&ring=c9a87c&fire=c9a87c&currStreakLabel=c9a87c" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 I'm always open to interesting conversations and collaboration opportunities.
 
 - 💼 [LinkedIn](https://linkedin.com/in/arckie-jadulco)
-- 🌐 [Portfolio](https://arckie.dev)
+- 🌐 [Portfolio Website](https://arckiejadulco.dev)
 - 📧 [arckie.jadulco@gmail.com](mailto:arckie.jadulco@gmail.com)
 
 ---
